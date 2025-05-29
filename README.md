@@ -17,6 +17,9 @@ Este projeto utiliza **Python**, **OpenCV** e **MediaPipe** para:
 ## 🚩Resultados do experimento 
 ### Luminosidade Alta:
 ![Luminosidade Alta](imgs%20README/Luminosidade%20Alta.png)
+### Luminosidade Baixa:
+![Luminosidade Baixa](imgs%20README/Luminosidade%20Baixa.png)
+
 
 ## ⚙️ Tecnologias utilizadas
 
