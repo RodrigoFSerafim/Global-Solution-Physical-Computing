@@ -3,8 +3,8 @@
 O **Sensor de Socorro** é um projeto desenvolvido para auxiliar pessoas em situações de emergência, especialmente quando ocorre falta de iluminação e a pessoa precisa solicitar ajuda. O sistema detecta, através da câmera, quando o usuário está em um ambiente escuro e faz um gesto de **punho cerrado**, exibindo um alerta de socorro.
 
 ## 👥 Grupo - 3ESPF
-- João Antonio Vieira Rihan - rm99656**
-- Rodrigo Fernandes Serafim - rm550816**
+- João Antonio Vieira Rihan - rm99656
+- Rodrigo Fernandes Serafim - rm550816
 
 ## 📌 Descrição
 
