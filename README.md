@@ -1,9 +1,10 @@
 # Sensor de Socorro
+
+O **Sensor de Socorro** é um projeto desenvolvido para auxiliar pessoas em situações de emergência, especialmente quando ocorre falta de iluminação e a pessoa precisa solicitar ajuda. O sistema detecta, através da câmera, quando o usuário está em um ambiente escuro e faz um gesto de **punho cerrado**, exibindo um alerta de socorro.
+
 ## 👥 Grupo
 - 👤 **Rodrigo Fernandes Serafim**  
 - 👤 **João Antonio Rihan**
-
-O **Sensor de Socorro** é um projeto desenvolvido para auxiliar pessoas em situações de emergência, especialmente quando ocorre falta de iluminação e a pessoa precisa solicitar ajuda. O sistema detecta, através da câmera, quando o usuário está em um ambiente escuro e faz um gesto de **punho cerrado**, exibindo um alerta de socorro.
 
 ## 📌 Descrição
 
@@ -12,6 +13,10 @@ Este projeto utiliza **Python**, **OpenCV** e **MediaPipe** para:
 - Detectar a presença de uma mão fechada (punho cerrado).
 - Verificar se o ambiente possui baixa luminosidade.
 - Exibir um alerta visual na tela quando ambas as condições forem atendidas, indicando um pedido de socorro.
+
+## 🚩Resultados do experimento 
+### Luminosidade Alta:
+![Luminosidade Alta](imgs%20README/Luminosidade%20Alta.png)
 
 ## ⚙️ Tecnologias utilizadas
 
@@ -35,4 +40,3 @@ Este projeto utiliza **Python**, **OpenCV** e **MediaPipe** para:
 git clone https://github.com/seu-usuario/sensor-de-socorro.git
 cd sensor-de-socorro
 ```
-## 🚩Resultados do experimento 
