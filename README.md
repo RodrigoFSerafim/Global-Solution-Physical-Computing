@@ -6,6 +6,9 @@ O **Sensor de Socorro** é um projeto desenvolvido para auxiliar pessoas em situ
 - João Antonio Vieira Rihan - rm99656
 - Rodrigo Fernandes Serafim - rm550816
 
+## 🔗 Link do Vídeo
+https://youtu.be/tDamYVAiVY4
+
 ## 📌 Descrição
 
 Este projeto utiliza **Python**, **OpenCV** e **MediaPipe** para:
